@@ -42,6 +42,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          platforms: linux/amd64
           push: true
-          tags: rala/python-helloworld1:latest
+          tags: ramak873/pythontest:latest
